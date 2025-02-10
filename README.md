@@ -1,8 +1,8 @@
-# Vite + React Project Documentation
+## Products
 
-## Project Overview
-
-This project is a frontend application built using React, Vite, and TypeScript. Vite is used as the build tool for fast development and optimized production builds.
+This project is a frontend application built using React, Vite, and TypeScript.
+* I use `Amazon Q` and `ChatGPT` to improve development times.
+* Time wasted in total 8h
 
 ### Deployed url
 [https://pillar-screen-test-frontend.vercel.app/](https://pillar-screen-test-frontend.vercel.app/)
